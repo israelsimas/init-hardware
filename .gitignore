@@ -1,0 +1,7 @@
+bld/
+/build/
+.project
+.cproject
+.settings/
+.DS_Store
+.vscode/
